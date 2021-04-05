@@ -1,13 +1,7 @@
 {
-  "Post": {
+  "Category1": {
     "title": "string",
     "Price": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
+    "Timeline": ['monthly','2 months']
   },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
-  }
 }
