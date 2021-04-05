@@ -2,6 +2,6 @@
   "Category1": {
     "title": "string",
     "Price": "int",
-    "Timeline": ['monthly','2 months']
+    "Timeline": ["monthly","2 months"]
   },
 }
